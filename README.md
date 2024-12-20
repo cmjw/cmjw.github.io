@@ -7,8 +7,8 @@
 
 ## Projects
 
-- Secure Pascal: A privilege-separating compiler for Pascal (Summer 2024) [link](https://github.com/cmjw/Secure_PASCAL)
-- Cache Power Consumption Simulator: Simulates DRAM timing, data movement, performance statistics, and power consumption. April 2024. [link](https://github.com/cmjw/Cache-Simulator)
+- Secure Pascal: A privilege-separating compiler for Pascal. (Summer 2024) [link](https://github.com/cmjw/Secure_PASCAL)
+- Cache Power Consumption Simulator: Simulates DRAM timing, data movement, performance statistics, and power consumption. (April 2024) [link](https://github.com/cmjw/Cache-Simulator)
 
 ## Publications
 

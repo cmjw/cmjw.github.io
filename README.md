@@ -9,6 +9,9 @@
 
 ## Publications
 
+- Charlotte White. Gender Distribution of Shamans Across the Circumpolar North. TROIKA, University of California, Berkeley (Spring 2024)
+- Amy H. Liu, Betty Compton, Ike Chen, Alexander Dominiak, Kameryn Guilbeau, Charlotte White. Languages and Crises: How Lithuanians and Russians (in Lithuania) Responded to the Ryan Air Hijacking. Journal of Baltic Studies. (Submitted Dec. 2023, undergoing peer review)
+
 ## Awards & Honors
 
 - Global Seal of Biliteracy - ACTFL Intermediate High, Czech & English, 2024
